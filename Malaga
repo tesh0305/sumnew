@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body style="background-color: green;" height="2000" width="device-width">
+    <H1>Malaga</H1>
+    <h2>hotels</h2>
+    <table>
+  <tr>
+    <th>hotels</th>
+    <th>links</th>
+  </tr>
+  <tr>
+    <td>Hotel Miramar</td>
+    <td>Ac Hotel Malaga Palacio</td>
+    <td>Only YOU Hotel Malaga</td>
+  </tr>
+  <tr>
+    <td>https://www.granhotelmiramarmalaga.com/en/?utm_source=google&utm_medium=organic&utm_campaign=my_business</td>
+    <td>https://www.marriott.com/en-us/hotels/agpmg-ac-hotel-malaga-palacio/overview/?scid=f2ae0541-1279-4f24-b197-a979c79310b0</td>
+    <td>https://www.onlyyouhotels.com/hoteles/only-you-hotel-malaga/?y_source=1_MjQxNDE0MTItNzE1LWxvY2F0aW9uLndlYnNpdGU%3D</td>
+  </tr>
+</table>
+    <h2>flights</h2>
+     <table>
+  <tr>
+    <th>airlines</th>
+    <th>links</th>
+  </tr>
+  <tr>
+    <td>Aer lingus</td>
+    <td>Ryanair</td>
+  </tr>
+  <tr>
+    <td>https://www.aerlingus.com/html/en-IE/home.html</td>
+    <td>https://www.ryanair.com/ie/en</td>
+  </tr>
+</table> 
+    <h2>activities</h2>
+      <table>
+  <tr>
+    <th>companys</th>
+    <th>links</th>
+  </tr>
+  <tr>
+    <td>Museo de Málaga</td>
+    <td>The Nerja Cave</td>
+    <td>Al Andalus Hammam in Malaga</td>
+  </tr>
+  <tr>
+    <td>https://www.museosdeandalucia.es/web/museodemalaga/informacion-general</td>
+    <td>https://cuevadenerja.es/en/</td>
+    <td>https://malaga.hammamalandalus.com/en/</td>
+  </tr>
+</table>
+</body>
+</html>

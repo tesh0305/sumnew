@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body style="background-color: green;" height="2000" width="device-width">
+    <H1></H1>
+    <h2>hotels</h2>
+    <table>
+  <tr>
+    <th>hotels</th>
+    <th>links</th>
+  </tr>
+  <tr>
+    <td>W barcelona</td>
+    <td>Majestic Hotel & Spa Barcelona</td>
+    <td>Hotel 1898</td>
+  </tr>
+  <tr>
+    <td>https://www.marriott.com/en-us/hotels/bcnwh-w-barcelona/overview/?scid=f2ae0541-1279-4f24-b197-a979c79310b0</td>
+    <td>https://majestichotelgroup.com/en/barcelona/hotel-majestic</td>
+    <td>https://www.hotel1898.com/en</td>
+  </tr>
+</table>
+    <h2>flights</h2>
+     <table>
+  <tr>
+    <th>airlines</th>
+    <th>links</th>
+  </tr>
+  <tr>
+    <td>Aer lingus</td>
+    <td>Ryanair</td>
+  </tr>
+  <tr>
+    <td>https://www.aerlingus.com/html/en-IE/home.html</td>
+    <td>https://www.ryanair.com/ie/en</td>
+  </tr>
+</table> 
+    <h2>activities</h2>
+      <table>
+  <tr>
+    <th>companys</th>
+    <th>links</th>
+  </tr>
+  <tr>
+    <td>L’Aquàrium de Barcelona</td>
+    <td>Giradabo</td>
+    <td>Barcelona stadium tickets and tour</td>
+  </tr>
+  <tr>
+    <td>https://www.aquariumbcn.com/en/</td>
+    <td>https://tibidabo.cat/en/amusement-park/rides/giradabo</td>
+    <td>https://www.fcbarcelona.com/en/tickets/camp-nou-experience</td>
+  </tr>
+</table>
+</body>
+</html>

@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body style="background-color: green;" height="2000" width="device-width">
+    <H1>Madrid</H1>
+    <h2>hotels</h2>
+    <table>
+  <tr>
+    <th>hotels</th>
+    <th>links</th>
+  </tr>
+  <tr>
+    <td>Four Seasons Hotel Madrid</td>
+    <td>JW Marriott Hotel Madrid</td>
+    <td>The Madrid EDITION</td>
+  </tr>
+  <tr>
+    <td>https://www.fourseasons.com/madrid/</td>
+    <td>https://www.marriott.com/en-us/hotels/madjw-jw-marriott-hotel-madrid/overview/?scid=f2ae0541-1279-4f24-b197-a979c79310b0</td>
+    <td>https://www.marriott.com/en-us/hotels/madeb-the-madrid-edition/overview/?scid=f2ae0541-1279-4f24-b197-a979c79310b0</td>
+  </tr>
+</table>
+    <h2>flights</h2>
+     <table>
+  <tr>
+    <th>airlines</th>
+    <th>links</th>
+  </tr>
+  <tr>
+    <td>Aer lingus</td>
+    <td>Ryanair</td>
+  </tr>
+  <tr>
+    <td>https://www.aerlingus.com/html/en-IE/home.html</td>
+    <td>https://www.ryanair.com/ie/en</td>
+  </tr>
+</table> 
+    <h2>activities</h2>
+      <table>
+  <tr>
+    <th>companys</th>
+    <th>links</th>
+  </tr>
+  <tr>
+    <td>Night Tour of Enchanted Madrid</td>
+    <td>Madrid: OXO Video Game Museum Admission</td>
+    <td>Madrid: Atlantis Aquarium</td>
+  </tr>
+  <tr>
+    <td>https://seeplaces.com/excursions/spain/madrid/enchanted-madrid-by-night/</td>
+    <td>https://oxomuseomadrid.com/en/entradas/</td>
+    <td>https://www.atlantisaquarium-madrid.es/</td>
+  </tr>
+</table>
+</body>
+</html>
